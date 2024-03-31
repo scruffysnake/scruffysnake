@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scruffysnake
 - 👀 I’m interested in general computer stuff
 - 🌱 I’m currently learning computer science
-- 📫 Reach me by discord: scruffysnake#3754
+- 📫 Reach me by discord: scruffys
 
 <!---
 scruffysnake/scruffysnake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
