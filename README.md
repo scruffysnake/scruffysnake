@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scruffysnake
-- 👀 I’m interested in general computer stuff
+- 👀 I’m interested in programming :3
 - 🌱 I’m currently learning computer science
 - 📫 Reach me by discord: scruffys
 
