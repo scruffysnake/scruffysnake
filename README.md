@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scruffysnake
 - 👀 I’m interested in programming :3
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently studying computer science at the University of Bristol
 - 📫 Reach me by discord: scruffys
 
 <!---
