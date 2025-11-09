@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @scruffysnake
-- 👀 I’m interested in programming :3
-- 🌱 I’m currently studying computer science at the University of Bristol
-- 📫 Reach me by discord: scruffys
+# Hi, I'm Lily (˶˃ ᵕ ˂˶)
+
+- 👩‍🎓Studying computer science at the University of Bristol
+- 📍Bristol/Winchester/Uzès
+- 🤷‍♀️Not much else to say :p
 
 <!---
 scruffysnake/scruffysnake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
