@@ -4,6 +4,8 @@
 - 📍Bristol / Winchester / Uzès
 - 🤷‍♀️Not much else to say :p
 
+![Alt text](coco-looking-stoned.jpg?raw=true "Coco")
+
 <!---
 scruffysnake/scruffysnake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
